@@ -1,0 +1,12 @@
+{
+  "name": "lljs_string",
+  "repo": "jmars/lljs_string",
+  "description": "Char* for low level javascript, and required conversion functions.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "jmars/memory":"*"
+  },
+  "development": {},
+  "scripts": ["index.js"]
+}

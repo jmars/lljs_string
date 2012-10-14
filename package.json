@@ -1,0 +1,21 @@
+{
+  "name": "lljs_string",
+  "version": "0.0.1",
+  "description": "Char* for low level javascript, and required conversion functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmars/lljs_string.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "memory":"https://github.com/jmars/memory/tarball/master"
+  },
+  "devDependencies": {
+    "lljs":"https://github.com/jmars/LLJS/tarball/master"
+  }
+}
